@@ -1,0 +1,5 @@
+﻿  01 静态成员.cpp
+e:\0628\sendtostudent\day14_c++\code\01 静态成员\01 静态成员\01 静态成员.cpp(46): warning C4101: “p2”: 未引用的局部变量
+e:\0628\sendtostudent\day14_c++\code\01 静态成员\01 静态成员\01 静态成员.cpp(43): warning C4101: “p1”: 未引用的局部变量
+e:\0628\sendtostudent\day14_c++\code\01 静态成员\01 静态成员\01 静态成员.cpp(62): warning C4101: “p1”: 未引用的局部变量
+  01 静态成员.vcxproj -> E:\0628\sendToStudent\Day14_C++\Code\01 静态成员\Debug\01 静态成员.exe
